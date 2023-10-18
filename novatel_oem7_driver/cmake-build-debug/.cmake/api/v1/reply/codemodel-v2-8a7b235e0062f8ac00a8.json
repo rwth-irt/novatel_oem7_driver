@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8395e12179a4542352be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "novatel_oem7_driver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "novatel_oem7_decoder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-novatel_oem7_decoder-Debug-bc9ca2669d7e152c7517.json",
+					"name" : "novatel_oem7_decoder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "novatel_oem7_driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-novatel_oem7_driver-Debug-335eada5ec358ea4052c.json",
+					"name" : "novatel_oem7_driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "novatel_oem7_driver_exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-novatel_oem7_driver_exe-Debug-7392ea4169b084a7b89a.json",
+					"name" : "novatel_oem7_driver_exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "novatel_oem7_driver_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-novatel_oem7_driver_uninstall-Debug-3ba5fba6be0054873fdf.json",
+					"name" : "novatel_oem7_driver_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-edf0df57333d4b76edc2.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug",
+		"source" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

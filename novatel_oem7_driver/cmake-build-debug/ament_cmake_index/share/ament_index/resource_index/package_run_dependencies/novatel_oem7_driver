@@ -1,0 +1,1 @@
+pluginlib;boost;rclcpp;rclcpp_components;gps_msgs;sensor_msgs;nmea_msgs;nav_msgs;novatel_oem7_msgs;tf2_geometry_msgs;gps_tools

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug/CMakeFiles/novatel_oem7_decoder"
+		},
+		{
+			"file" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug/CMakeFiles/novatel_oem7_decoder.rule"
+		},
+		{
+			"file" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug/CMakeFiles/novatel_oem7_decoder-complete.rule"
+		},
+		{
+			"file" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug/novatel_oem7_decoder/src/novatel_oem7_decoder-stamp/novatel_oem7_decoder-build.rule"
+		},
+		{
+			"file" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug/novatel_oem7_decoder/src/novatel_oem7_decoder-stamp/novatel_oem7_decoder-configure.rule"
+		},
+		{
+			"file" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug/novatel_oem7_decoder/src/novatel_oem7_decoder-stamp/novatel_oem7_decoder-download.rule"
+		},
+		{
+			"file" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug/novatel_oem7_decoder/src/novatel_oem7_decoder-stamp/novatel_oem7_decoder-install.rule"
+		},
+		{
+			"file" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug/novatel_oem7_decoder/src/novatel_oem7_decoder-stamp/novatel_oem7_decoder-mkdir.rule"
+		},
+		{
+			"file" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug/novatel_oem7_decoder/src/novatel_oem7_decoder-stamp/novatel_oem7_decoder-patch.rule"
+		},
+		{
+			"file" : "/home/haoming/fgo_ws/src/fgo_code/novatel_oem7_driver/cmake-build-debug/novatel_oem7_decoder/src/novatel_oem7_decoder-stamp/novatel_oem7_decoder-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"novatel_oem7_decoder"
+		],
+		"name" : "novatel_oem7_decoder"
+	}
+}

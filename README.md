@@ -1,3 +1,13 @@
+
+# Adapted from https://github.com/novatel/novatel_oem7_driver at the Institute of Automatic Control RWTH Aachen University
+Version: 2.2.0 
+
+### Note:
+1. added new novatel messages for raw GNSS observations
+2. extended the driver and config files to request new observations
+
+---
+
 # NovAtel OEM7 Driver
 [**ROS**](https://www.ros.org) Driver for [**NovAtel**](https://www.novatel.com) OEM7 GNSS/SPAN Receivers.  
 
@@ -59,7 +69,7 @@ Here are approximate instructions for building this driver with your local ROS d
 1. Run `source envsetup.sh`
 1. Run build: `./build.sh -f`
 
-#### Install .deb packages 
+#### Install .deb packages
 Building produces two deb package, novatel-oem7-driver and novatel-oem7-msgs.
 
 You can then install these via `apt` or `dpkg`:
